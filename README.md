@@ -9,3 +9,9 @@ npx create-next-app@latest tawildin-spotify
 ```
 https://www.youtube.com/watch?v=YVI-q3idGiM
 ```
+
+#### Dependências
+* Icons
+```
+npm i lucide-react
+```
